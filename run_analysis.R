@@ -1,3 +1,6 @@
+# This program has been written to merge two datasets togther and form a new summarised dataset
+# The input datasets consist of 6 files files
+
 run_analysis <- function() {
 
 
