@@ -16,11 +16,12 @@
 # ./UCI HAR Dataset if the directory is there it will assume the data is present and proceed
 # if the directory is not present it will download the required data and then proceed.
 # 
-# output data
+# Output data
 #   two text files will be created containing the 
 #     ./UCI HAR Dataset/CombinedDataSet.txt - merged mean and standard deviation dataset 
 #     ./UCI HAR Dataset/NewDataSet.txt - new summarised dataset
-#   The summarised dataset will also be return from calling the run_analysis function
+# The summarised dataset will also be returned as a data frame when calling the 
+# run_analysis function
 #
 # The input datasets consist of 6 files files
 #  The 1st is the training dataset 
