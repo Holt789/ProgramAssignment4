@@ -125,11 +125,11 @@ run_analysis <- function() {
       # Build new dataset data frame
       if (i > 1) {
         tmpDF <- cbind(tmpDF, tmpColumn[,3])
-        names(tmpDF)[i+2]<-paste(getAvgsFor[i])
+        names(tmpDF)[i+2]<-paste("meanOf.", paste(getAvgsFor[i]), sep="")
       }
       else {
         tmpDF <- tmpColumn
-        names(tmpDF)[3]<-paste(getAvgsFor[i])
+        names(tmpDF)[3]<-paste("meanOf.", paste(getAvgsFor[i]), sep="")
       }
     }
   

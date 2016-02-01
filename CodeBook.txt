@@ -1,0 +1,180 @@
+DataSet	Field Label	Variable Type	Allowable Values	Comments
+NewDataSet.txt	subject                                   	int	1-30	Identifies test subject
+NewDataSet.txt	activity                                 	int	1-6	Identifies type of activity observed 1-WALKING,2-WALKING_UPSTAIRS,3-WALKING_DOWNSTAIRS,4-SITTING,5-STANDING,6-LAYING
+NewDataSet.txt	meanOf.tBodyAcc.mean.X                    	num	-1 to 1	mean value of the tBodyAcc.mean.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAcc.mean.Y                   	num	-1 to 1	mean value of the tBodyAcc.mean.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAcc.mean.Z                    	num	-1 to 1	mean value of the tBodyAcc.mean.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAcc.std.X                    	num	-1 to 1	mean value of the tBodyAcc.std.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAcc.std.Y                     	num	-1 to 1	mean value of the tBodyAcc.std.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAcc.std.Z                    	num	-1 to 1	mean value of the tBodyAcc.std.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tGravityAcc.mean.X                 	num	-1 to 1	mean value of the tGravityAcc.mean.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tGravityAcc.mean.Y                	num	-1 to 1	mean value of the tGravityAcc.mean.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tGravityAcc.mean.Z                 	num	-1 to 1	mean value of the tGravityAcc.mean.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tGravityAcc.std.X                 	num	-1 to 1	mean value of the tGravityAcc.std.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tGravityAcc.std.Y                  	num	-1 to 1	mean value of the tGravityAcc.std.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tGravityAcc.std.Z                 	num	-1 to 1	mean value of the tGravityAcc.std.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccJerk.mean.X                	num	-1 to 1	mean value of the tBodyAccJerk.mean.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccJerk.mean.Y               	num	-1 to 1	mean value of the tBodyAccJerk.mean.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccJerk.mean.Z                	num	-1 to 1	mean value of the tBodyAccJerk.mean.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccJerk.std.X                	num	-1 to 1	mean value of the tBodyAccJerk.std.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccJerk.std.Y                 	num	-1 to 1	mean value of the tBodyAccJerk.std.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccJerk.std.Z                	num	-1 to 1	mean value of the tBodyAccJerk.std.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyro.mean.X                   	num	-1 to 1	mean value of the tBodyGyro.mean.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyro.mean.Y                  	num	-1 to 1	mean value of the tBodyGyro.mean.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyro.mean.Z                   	num	-1 to 1	mean value of the tBodyGyro.mean.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyro.std.X                   	num	-1 to 1	mean value of the tBodyGyro.std.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyro.std.Y                    	num	-1 to 1	mean value of the tBodyGyro.std.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyro.std.Z                   	num	-1 to 1	mean value of the tBodyGyro.std.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroJerk.mean.X               	num	-1 to 1	mean value of the tBodyGyroJerk.mean.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroJerk.mean.Y              	num	-1 to 1	mean value of the tBodyGyroJerk.mean.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroJerk.mean.Z               	num	-1 to 1	mean value of the tBodyGyroJerk.mean.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroJerk.std.X               	num	-1 to 1	mean value of the tBodyGyroJerk.std.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroJerk.std.Y                	num	-1 to 1	mean value of the tBodyGyroJerk.std.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroJerk.std.Z               	num	-1 to 1	mean value of the tBodyGyroJerk.std.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccMag.mean                   	num	-1 to 1	mean value of the tBodyAccMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccMag.std                   	num	-1 to 1	mean value of the tBodyAccMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tGravityAccMag.mean                	num	-1 to 1	mean value of the tGravityAccMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tGravityAccMag.std                	num	-1 to 1	mean value of the tGravityAccMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccJerkMag.mean               	num	-1 to 1	mean value of the tBodyAccJerkMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyAccJerkMag.std               	num	-1 to 1	mean value of the tBodyAccJerkMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroMag.mean                  	num	-1 to 1	mean value of the tBodyGyroMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroMag.std                  	num	-1 to 1	mean value of the tBodyGyroMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroJerkMag.mean              	num	-1 to 1	mean value of the tBodyGyroJerkMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.tBodyGyroJerkMag.std              	num	-1 to 1	mean value of the tBodyGyroJerkMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.mean.X                    	num	-1 to 1	mean value of the fBodyAcc.mean.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.mean.Y                   	num	-1 to 1	mean value of the fBodyAcc.mean.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.mean.Z                    	num	-1 to 1	mean value of the fBodyAcc.mean.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.std.X                    	num	-1 to 1	mean value of the fBodyAcc.std.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.std.Y                     	num	-1 to 1	mean value of the fBodyAcc.std.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.std.Z                    	num	-1 to 1	mean value of the fBodyAcc.std.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.meanFreq.X                	num	-1 to 1	mean value of the fBodyAcc.meanFreq.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.meanFreq.Y               	num	-1 to 1	mean value of the fBodyAcc.meanFreq.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAcc.meanFreq.Z                	num	-1 to 1	mean value of the fBodyAcc.meanFreq.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.mean.X               	num	-1 to 1	mean value of the fBodyAccJerk.mean.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.mean.Y                	num	-1 to 1	mean value of the fBodyAccJerk.mean.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.mean.Z               	num	-1 to 1	mean value of the fBodyAccJerk.mean.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.std.X                 	num	-1 to 1	mean value of the fBodyAccJerk.std.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.std.Y                	num	-1 to 1	mean value of the fBodyAccJerk.std.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.std.Z                 	num	-1 to 1	mean value of the fBodyAccJerk.std.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.meanFreq.X           	num	-1 to 1	mean value of the fBodyAccJerk.meanFreq.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.meanFreq.Y            	num	-1 to 1	mean value of the fBodyAccJerk.meanFreq.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccJerk.meanFreq.Z           	num	-1 to 1	mean value of the fBodyAccJerk.meanFreq.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.mean.X                   	num	-1 to 1	mean value of the fBodyGyro.mean.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.mean.Y                  	num	-1 to 1	mean value of the fBodyGyro.mean.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.mean.Z                   	num	-1 to 1	mean value of the fBodyGyro.mean.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.std.X                   	num	-1 to 1	mean value of the fBodyGyro.std.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.std.Y                    	num	-1 to 1	mean value of the fBodyGyro.std.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.std.Z                   	num	-1 to 1	mean value of the fBodyGyro.std.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.meanFreq.X               	num	-1 to 1	mean value of the fBodyGyro.meanFreq.X variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.meanFreq.Y              	num	-1 to 1	mean value of the fBodyGyro.meanFreq.Y variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyGyro.meanFreq.Z               	num	-1 to 1	mean value of the fBodyGyro.meanFreq.Z variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccMag.mean                  	num	-1 to 1	mean value of the fBodyAccMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccMag.std                    	num	-1 to 1	mean value of the fBodyAccMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyAccMag.meanFreq              	num	-1 to 1	mean value of the fBodyAccMag.meanFreq variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyAccJerkMag.mean           	num	-1 to 1	mean value of the fBodyBodyAccJerkMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyAccJerkMag.std           	num	-1 to 1	mean value of the fBodyBodyAccJerkMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyAccJerkMag.meanFreq       	num	-1 to 1	mean value of the fBodyBodyAccJerkMag.meanFreq variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyGyroMag.mean             	num	-1 to 1	mean value of the fBodyBodyGyroMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyGyroMag.std               	num	-1 to 1	mean value of the fBodyBodyGyroMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyGyroMag.meanFreq         	num	-1 to 1	mean value of the fBodyBodyGyroMag.meanFreq variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyGyroJerkMag.mean          	num	-1 to 1	mean value of the fBodyBodyGyroJerkMag.mean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyGyroJerkMag.std          	num	-1 to 1	mean value of the fBodyBodyGyroJerkMag.std variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.fBodyBodyGyroJerkMag.meanFreq      	num	-1 to 1	mean value of the fBodyBodyGyroJerkMag.meanFreq variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.angletBodyAccMean.gravity         	num	-1 to 1	mean value of the angletBodyAccMean.gravity variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.angletBodyAccJerkMean.gravityMean  	num	-1 to 1	mean value of the angletBodyAccJerkMean.gravityMean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.angletBodyGyroMean.gravityMean    	num	-1 to 1	mean value of the angletBodyGyroMean.gravityMean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.angletBodyGyroJerkMean.gravityMean 	num	-1 to 1	mean value of the angletBodyGyroJerkMean.gravityMean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.angleX.gravityMean                	num	-1 to 1	mean value of the angleX.gravityMean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.angleY.gravityMean                 	num	-1 to 1	mean value of the angleY.gravityMean variable from the combinedDS groupedby the subject and activity
+NewDataSet.txt	meanOf.angleZ.gravityMean      	num	-1 to 1	mean value of the angleZ.gravityMean variable from the combinedDS groupedby the subject and activity
+				
+				
+CombinedDataSet.txt	subject                           	int	1-30	Identifies test subject
+CombinedDataSet.txt	activity                          	int	1-6	Identifies type of activity observed 1-WALKING,2-WALKING_UPSTAIRS,3-WALKING_DOWNSTAIRS,4-SITTING,5-STANDING,6-LAYING
+CombinedDataSet.txt	dataset                           	Factor 	2 levels “train”, “test”	
+CombinedDataSet.txt	tBodyAcc.mean.X                   	num	-1 to 1	tBodyAcc-mean()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAcc.mean.Y                   	num	-1 to 1	tBodyAcc-mean()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAcc.mean.Z                   	num	-1 to 1	tBodyAcc-mean()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAcc.std.X                    	num	-1 to 1	tBodyAcc-std()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAcc.std.Y                    	num	-1 to 1	tBodyAcc-std()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAcc.std.Z                    	num	-1 to 1	tBodyAcc-std()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tGravityAcc.mean.X                	num	-1 to 1	tGravityAcc-mean()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tGravityAcc.mean.Y                	num	-1 to 1	tGravityAcc-mean()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tGravityAcc.mean.Z                	num	-1 to 1	tGravityAcc-mean()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tGravityAcc.std.X                 	num	-1 to 1	tGravityAcc-std()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tGravityAcc.std.Y                 	num	-1 to 1	tGravityAcc-std()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tGravityAcc.std.Z                 	num	-1 to 1	tGravityAcc-std()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccJerk.mean.X               	num	-1 to 1	tBodyAccJerk-mean()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccJerk.mean.Y               	num	-1 to 1	tBodyAccJerk-mean()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccJerk.mean.Z               	num	-1 to 1	tBodyAccJerk-mean()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccJerk.std.X                	num	-1 to 1	tBodyAccJerk-std()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccJerk.std.Y                	num	-1 to 1	tBodyAccJerk-std()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccJerk.std.Z                	num	-1 to 1	tBodyAccJerk-std()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyro.mean.X                  	num	-1 to 1	tBodyGyro-mean()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyro.mean.Y                  	num	-1 to 1	tBodyGyro-mean()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyro.mean.Z                  	num	-1 to 1	tBodyGyro-mean()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyro.std.X                   	num	-1 to 1	tBodyGyro-std()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyro.std.Y                   	num	-1 to 1	tBodyGyro-std()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyro.std.Z                   	num	-1 to 1	tBodyGyro-std()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroJerk.mean.X              	num	-1 to 1	tBodyGyroJerk-mean()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroJerk.mean.Y              	num	-1 to 1	tBodyGyroJerk-mean()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroJerk.mean.Z              	num	-1 to 1	tBodyGyroJerk-mean()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroJerk.std.X               	num	-1 to 1	tBodyGyroJerk-std()-X (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroJerk.std.Y               	num	-1 to 1	tBodyGyroJerk-std()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroJerk.std.Z               	num	-1 to 1	tBodyGyroJerk-std()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccMag.mean                  	num	-1 to 1	tBodyAccMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccMag.std                   	num	-1 to 1	tBodyAccMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	tGravityAccMag.mean               	num	-1 to 1	tGravityAccMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	tGravityAccMag.std                	num	-1 to 1	tGravityAccMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccJerkMag.mean              	num	-1 to 1	tBodyAccJerkMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyAccJerkMag.std               	num	-1 to 1	tBodyAccJerkMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroMag.mean                 	num	-1 to 1	tBodyGyroMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroMag.std                  	num	-1 to 1	tBodyGyroMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroJerkMag.mean             	num	-1 to 1	tBodyGyroJerkMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	tBodyGyroJerkMag.std              	num	-1 to 1	tBodyGyroJerkMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.mean.X                   	num	-1 to 1	fBodyAcc-mean()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.mean.Y                   	num	-1 to 1	fBodyAcc-mean()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.mean.Z                   	num	-1 to 1	fBodyAcc-mean()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.std.X                    	num	-1 to 1	fBodyAcc-std()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.std.Y                    	num	-1 to 1	fBodyAcc-std()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.std.Z                    	num	-1 to 1	fBodyAcc-std()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.meanFreq.X               	num	-1 to 1	fBodyAcc-meanFreq()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.meanFreq.Y               	num	-1 to 1	fBodyAcc-meanFreq()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAcc.meanFreq.Z               	num	-1 to 1	fBodyAcc-meanFreq()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.mean.X               	num	-1 to 1	fBodyAccJerk-mean()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.mean.Y               	num	-1 to 1	fBodyAccJerk-mean()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.mean.Z               	num	-1 to 1	fBodyAccJerk-mean()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.std.X                	num	-1 to 1	fBodyAccJerk-std()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.std.Y                	num	-1 to 1	fBodyAccJerk-std()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.std.Z                	num	-1 to 1	fBodyAccJerk-std()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.meanFreq.X           	num	-1 to 1	fBodyAccJerk-meanFreq()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.meanFreq.Y           	num	-1 to 1	fBodyAccJerk-meanFreq()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccJerk.meanFreq.Z           	num	-1 to 1	fBodyAccJerk-meanFreq()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.mean.X                  	num	-1 to 1	fBodyGyro-mean()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.mean.Y                  	num	-1 to 1	fBodyGyro-mean()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.mean.Z                  	num	-1 to 1	fBodyGyro-mean()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.std.X                   	num	-1 to 1	fBodyGyro-std()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.std.Y                   	num	-1 to 1	fBodyGyro-std()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.std.Z                   	num	-1 to 1	fBodyGyro-std()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.meanFreq.X              	num	-1 to 1	fBodyGyro-meanFreq()-X (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.meanFreq.Y              	num	-1 to 1	fBodyGyro-meanFreq()-Y (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyGyro.meanFreq.Z              	num	-1 to 1	fBodyGyro-meanFreq()-Z (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccMag.mean                  	num	-1 to 1	fBodyAccMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccMag.std                   	num	-1 to 1	fBodyAccMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyAccMag.meanFreq              	num	-1 to 1	fBodyAccMag-meanFreq() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyAccJerkMag.mean          	num	-1 to 1	fBodyBodyAccJerkMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyAccJerkMag.std           	num	-1 to 1	fBodyBodyAccJerkMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyAccJerkMag.meanFreq      	num	-1 to 1	fBodyBodyAccJerkMag-meanFreq() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyGyroMag.mean             	num	-1 to 1	fBodyBodyGyroMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyGyroMag.std              	num	-1 to 1	fBodyBodyGyroMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyGyroMag.meanFreq         	num	-1 to 1	fBodyBodyGyroMag-meanFreq() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyGyroJerkMag.mean         	num	-1 to 1	fBodyBodyGyroJerkMag-mean() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyGyroJerkMag.std          	num	-1 to 1	fBodyBodyGyroJerkMag-std() (see features.info.txt for more info)
+CombinedDataSet.txt	fBodyBodyGyroJerkMag.meanFreq     	num	-1 to 1	fBodyBodyGyroJerkMag-meanFreq() (see features.info.txt for more info)
+CombinedDataSet.txt	angletBodyAccMean.gravity         	num	-1 to 1	angle(tBodyAccMean,gravity) (see features.info.txt for more info)
+CombinedDataSet.txt	angletBodyAccJerkMean.gravityMean 	num	-1 to 1	angle(tBodyAccJerkMean),gravityMean) (see features.info.txt for more info)
+CombinedDataSet.txt	angletBodyGyroMean.gravityMean    	num	-1 to 1	angle(tBodyGyroMean,gravityMean) (see features.info.txt for more info)
+CombinedDataSet.txt	angletBodyGyroJerkMean.gravityMean	num	-1 to 1	angle(tBodyGyroJerkMean,gravityMean) (see features.info.txt for more info)
+CombinedDataSet.txt	angleX.gravityMean                	num	-1 to 1	angle(X,gravityMean) (see features.info.txt for more info)
+CombinedDataSet.txt	angleY.gravityMean                	num	-1 to 1	angle(Y,gravityMean) (see features.info.txt for more info)
+CombinedDataSet.txt	angleZ.gravityMean                	num	-1 to 1	angle(Z,gravityMean) (see features.info.txt for more info)
