@@ -25,14 +25,14 @@
 #
 # The input datasets consist of 6 files files
 #  The 1st is the training dataset 
-#   X_train.txt - This contains the activity readings with a value from 1 - 6
-#   y_train.txt - 
-#   subject_train.txt - 
+#   X_train.txt - 7352 obs of 561 variables, each variable a different measurement (86 selected)
+#   y_train.txt - 7352 obs of 1 variables, this pertains to activity readings with a value from 1 - 6
+#   subject_train.txt - 7352 obs of 1 variable, this pertains to the subject undertaking the test values 1 - 30
 
 #  The 2nd input dataset is the test data set.  This also consists of three input files
-#  X_test.txt
-#  y_test.txt
-#  subject_test.txt
+#  X_test.txt - 2947 obs of 561 variables, each variable a different measurement (86 selected)
+#  y_test.txt - 2947 obs of 1 variables, this pertains to activity readings with a value from 1 - 6
+#  subject_test.txt - 2947 obs of 1 variable, this pertains to the subject undertaking the test values 1 - 30
 
 run_analysis <- function() {
   dataDir <- "./UCI HAR Dataset"
